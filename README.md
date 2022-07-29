@@ -1,2 +1,2 @@
 # myrepo
-Repository for my projects
+Repository for some of my data projects
